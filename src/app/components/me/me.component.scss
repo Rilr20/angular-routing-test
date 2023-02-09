@@ -1,0 +1,14 @@
+.flex {
+    display: flex;
+        .flex-item {
+        position: relative;
+        margin: 5px;
+    }
+    width: 30vw;
+    padding-top: 2em;
+    margin: auto;
+}
+main {
+    text-align: center;
+    margin-top: 0.5em;
+}

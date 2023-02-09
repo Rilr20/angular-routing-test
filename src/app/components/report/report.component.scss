@@ -1,0 +1,18 @@
+main {
+    text-align: center;
+    margin-top: 0.5em;
+}
+.report-btn-div {
+    display: flex;
+    width: 50vw;
+    margin: auto;
+    justify-content: space-evenly;
+    .report-btn {
+        margin-bottom: 1em;
+        font-size: 14pt;
+        text-decoration: underline;
+    }
+    .report-btn:hover {
+        cursor: pointer;
+    }
+}
